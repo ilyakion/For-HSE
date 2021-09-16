@@ -22,4 +22,3 @@ def transcription(dnk):
             print("eror")
             return
     return rnk
-fghdngdn
