@@ -1,4 +1,4 @@
-def f(data, target, count):
+def closest(data, target, count):
 
     if count <= 0:
         return []
